@@ -1,0 +1,234 @@
+,name_x,playing_role,id,order,runs_x,balls,strike_rate,fours,sixes,how_out,fall_of_wicket,fall_of_wicket_over,player_id,scorecard_id,match_number,name_y,start_date,matchtype,series_id,match_detail_id,title,runs_y,over,run_rate,match_id,opp_team_id,team_id
+13485,Murali Kartik,BOWL,13486,10,3,6,50.0,0,0,run out (Aftab Ahmed),,47.5,855,1498,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,India Innings,214,47.5,4.47,634,7,2
+13484,Zaheer Khan,BOWL,13485,9,10,14,71.42,1,0,c Mashrafe Mortaza b Khaled Mahmud,,45.6,78,1498,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,India Innings,214,47.5,4.47,634,7,2
+13483,Joginder Sharma,AR,13484,8,29,22,131.81,4,0,not out,,0.0,853,1498,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,India Innings,214,47.5,4.47,634,7,2
+13482,Ajit Agarkar,BOWL,13483,7,9,15,60.0,1,0,c Aftab Ahmed b Mohammad Rafique,,40.5,789,1498,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,India Innings,214,47.5,4.47,634,7,2
+13481,MS Dhoni,WK,13482,6,12,11,109.09,2,0,c Habibul Bashar b Mashrafe Mortaza,,37.2,51,1498,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,India Innings,214,47.5,4.47,634,7,2
+13480,Dinesh Mongia,AR,13481,5,12,18,66.66,0,0,lbw b Tapash Baisya,,33.2,854,1498,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,India Innings,214,47.5,4.47,634,7,2
+13479,Mohammad Kaif,BAT,13480,4,49,56,87.5,5,0,run out (Rajin Saleh),,40.1,794,1498,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,India Innings,214,47.5,4.47,634,7,2
+13477,Yuvraj Singh,BAT,13478,2,4,8,50.0,1,0,c Rajin Saleh b Tapash Baisya,,3.2,96,1498,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,India Innings,214,47.5,4.47,634,7,2
+13476,Sourav Ganguly,BAT,13477,1,22,42,52.38,3,0,c Mashrafe Mortaza b Khaled Mahmud,,17.1,788,1498,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,India Innings,214,47.5,4.47,634,7,2
+13466,Habibul Bashar,BAT,13467,2,17,21,80.95,3,0, b Agarkar,,8.4,820,1497,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,Bangladesh Innings,229,50.0,4.58,634,2,7
+13474,Nazmul Hossain,BOWL,13475,10,3,2,150.0,0,0,not out,,0.0,851,1497,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,Bangladesh Innings,229,50.0,4.58,634,2,7
+13473,Tapash Baisya,,13474,9,17,13,130.76,2,0, b Khan,,49.4,850,1497,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,Bangladesh Innings,229,50.0,4.58,634,2,7
+13472,Mashrafe Mortaza,BOWL,13473,8,31,39,79.48,3,1,not out,,0.0,374,1497,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,Bangladesh Innings,229,50.0,4.58,634,2,7
+13471,Khaled Mahmud,,13472,7,17,38,44.73,2,0,run out (Kaif/&dagger;Dhoni),,43.6,849,1497,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,Bangladesh Innings,229,50.0,4.58,634,2,7
+13470,Khaled Mashud,WK,13471,6,20,24,83.33,2,0,c Joginder Sharma b Sriram,,29.5,822,1497,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,Bangladesh Innings,229,50.0,4.58,634,2,7
+13469,Rajin Saleh,,13470,5,0,10,0.0,0,0,run out (Yuvraj Singh),,20.5,821,1497,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,Bangladesh Innings,229,50.0,4.58,634,2,7
+13468,Aftab Ahmed,,13469,4,67,98,68.36,5,1, b Kartik,,38.4,847,1497,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,Bangladesh Innings,229,50.0,4.58,634,2,7
+13467,Mohammad Ashraful,BAT,13468,3,28,41,68.29,1,2,c &amp; b Kartik,,18.2,343,1497,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,Bangladesh Innings,229,50.0,4.58,634,2,7
+13475,Virender Sehwag,BAT,13476,0,0,3,0.0,0,0, b Mashrafe Mortaza,,0.3,62,1498,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,India Innings,214,47.5,4.47,634,7,2
+13465,Mohammad Rafique,AR,13466,1,0,2,0.0,0,0,lbw b Khan,,1.2,823,1497,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,Bangladesh Innings,229,50.0,4.58,634,2,7
+13464,Nafees Iqbal,,13465,0,9,22,40.9,1,0,c &dagger;Dhoni b Agarkar,,6.5,846,1497,2.0,Bangladesh v India,2004-12-25 18:30:00+00:00,odi,182,774,Bangladesh Innings,229,50.0,4.58,634,2,7
+13498,Aftab Ahmed,,13501,5,9,13,69.23,1,0,c &dagger;Dhoni b Harbhajan Singh,,29.3,847,1500,3.0,Bangladesh v India,2004-12-26 18:30:00+00:00,odi,182,775,Bangladesh Innings,257,50.0,5.14,635,2,7
+13499,Khaled Mashud,WK,13503,6,10,16,62.5,0,0,lbw b Tendulkar,,35.2,822,1500,3.0,Bangladesh v India,2004-12-26 18:30:00+00:00,odi,182,775,Bangladesh Innings,257,50.0,5.14,635,2,7
+13500,Khaled Mahmud,,13505,7,14,31,45.16,0,0,c Joginder Sharma b Tendulkar,,45.4,849,1500,3.0,Bangladesh v India,2004-12-26 18:30:00+00:00,odi,182,775,Bangladesh Innings,257,50.0,5.14,635,2,7
+13497,Mohammad Ashraful,BAT,13499,4,32,34,94.11,4,0,run out (Khan/&dagger;Dhoni/Dravid),,22.1,343,1500,3.0,Bangladesh v India,2004-12-26 18:30:00+00:00,odi,182,775,Bangladesh Innings,257,50.0,5.14,635,2,7
+13502,Mashrafe Mortaza,BOWL,13508,9,39,20,195.0,3,3,st &dagger;Dhoni b Tendulkar,,49.4,374,1500,3.0,Bangladesh v India,2004-12-26 18:30:00+00:00,odi,182,775,Bangladesh Innings,257,50.0,5.14,635,2,7
+13503,Hasibul Hossain,BOWL,13510,10,1,1,100.0,0,0,not out,,0.0,856,1500,3.0,Bangladesh v India,2004-12-26 18:30:00+00:00,odi,182,775,Bangladesh Innings,257,50.0,5.14,635,2,7
+13501,Mushfiqur Rahman,,13507,8,27,44,61.36,3,0,not out,,0.0,848,1500,3.0,Bangladesh v India,2004-12-26 18:30:00+00:00,odi,182,775,Bangladesh Innings,257,50.0,5.14,635,2,7
+13496,Habibul Bashar,BAT,13497,3,2,7,28.57,0,0,c &dagger;Dhoni b Agarkar,,10.5,820,1500,3.0,Bangladesh v India,2004-12-26 18:30:00+00:00,odi,182,775,Bangladesh Innings,257,50.0,5.14,635,2,7
+13488,Sourav Ganguly,BAT,13489,2,55,80,68.75,2,2,c Khaled Mahmud b Rajin Saleh,,38.3,788,1499,3.0,Bangladesh v India,2004-12-26 18:30:00+00:00,odi,182,775,India Innings,348,50.0,6.96,635,7,2
+13494,Rajin Saleh,,13495,1,82,114,71.92,8,1,st &dagger;Dhoni b Tendulkar,,33.5,821,1500,3.0,Bangladesh v India,2004-12-26 18:30:00+00:00,odi,182,775,Bangladesh Innings,257,50.0,5.14,635,2,7
+13493,Nafees Iqbal,,13494,0,10,20,50.0,2,0,c &dagger;Dhoni b Agarkar,,6.6,846,1500,3.0,Bangladesh v India,2004-12-26 18:30:00+00:00,odi,182,775,Bangladesh Innings,257,50.0,5.14,635,2,7
+13492,MS Dhoni,WK,13493,6,7,2,350.0,0,1,not out,,0.0,51,1499,3.0,Bangladesh v India,2004-12-26 18:30:00+00:00,odi,182,775,India Innings,348,50.0,6.96,635,7,2
+13491,Yuvraj Singh,BAT,13492,5,69,32,215.62,8,3,c Aftab Ahmed b Khaled Mahmud,,49.3,96,1499,3.0,Bangladesh v India,2004-12-26 18:30:00+00:00,odi,182,775,India Innings,348,50.0,6.96,635,7,2
+13490,Mohammad Kaif,BAT,13491,4,29,24,120.83,2,0,not out,,0.0,794,1499,3.0,Bangladesh v India,2004-12-26 18:30:00+00:00,odi,182,775,India Innings,348,50.0,6.96,635,7,2
+13489,Rahul Dravid,BAT,13490,3,60,68,88.23,5,0,c Mashrafe Mortaza b Mohammad Rafique,,41.4,48,1499,3.0,Bangladesh v India,2004-12-26 18:30:00+00:00,odi,182,775,India Innings,348,50.0,6.96,635,7,2
+13487,Sachin Tendulkar,BAT,13488,1,47,42,111.9,9,0,c &dagger;Khaled Mashud b Khaled Mahmud,,13.1,63,1499,3.0,Bangladesh v India,2004-12-26 18:30:00+00:00,odi,182,775,India Innings,348,50.0,6.96,635,7,2
+13495,Mohammad Rafique,AR,13496,2,0,4,0.0,0,0,c Dravid b Khan,,7.5,823,1500,3.0,Bangladesh v India,2004-12-26 18:30:00+00:00,odi,182,775,Bangladesh Innings,257,50.0,5.14,635,2,7
+13486,Virender Sehwag,BAT,13487,0,70,52,134.61,9,2,c Mohammad Ashraful b Khaled Mahmud,,19.1,62,1499,3.0,Bangladesh v India,2004-12-26 18:30:00+00:00,odi,182,775,India Innings,348,50.0,6.96,635,7,2
+13509,Mohammad Kaif,BAT,13509,5,7,15,46.66,0,0,c Shahid Afridi b Arshad Khan,,44.6,794,1501,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,India Innings,281,50.0,5.62,636,9,2
+13510,MS Dhoni,WK,13511,6,3,7,42.85,0,0,c Naved-ul-Hasan b Arshad Khan,,46.3,51,1501,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,India Innings,281,50.0,5.62,636,9,2
+13511,Harbhajan Singh,BOWL,13512,7,14,13,107.69,0,1,not out,,0.0,52,1501,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,India Innings,281,50.0,5.62,636,9,2
+13512,Lakshmipathy Balaji,BOWL,13513,8,0,2,0.0,0,0, b Arshad Khan,,48.5,622,1501,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,India Innings,281,50.0,5.62,636,9,2
+13513,Zaheer Khan,BOWL,13514,9,2,3,66.66,0,0,not out,,0.0,78,1501,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,India Innings,281,50.0,5.62,636,9,2
+13514,Salman Butt,BAT,13515,0,26,29,89.65,5,0,c Ganguly b Nehra,,7.6,375,1502,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,Pakistan Innings,194,45.2,4.27,636,2,9
+13522,Mohammad Sami,BOWL,13523,8,2,6,33.33,0,0,c &amp; b Tendulkar,,35.2,648,1502,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,Pakistan Innings,194,45.2,4.27,636,2,9
+13524,Arshad Khan,,13525,10,14,21,66.66,1,0,not out,,0.0,857,1502,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,Pakistan Innings,194,45.2,4.27,636,2,9
+13523,Naved-ul-Hasan,,13524,9,25,35,71.42,2,1, b Khan,,45.2,315,1502,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,Pakistan Innings,194,45.2,4.27,636,2,9
+13521,Shahid Afridi,AR,13522,7,8,11,72.72,1,0,c Khan b Tendulkar,,33.3,313,1502,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,Pakistan Innings,194,45.2,4.27,636,2,9
+13520,Abdul Razzaq,AR,13521,6,5,13,38.46,0,0,c Sehwag b Tendulkar,,29.6,378,1502,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,Pakistan Innings,194,45.2,4.27,636,2,9
+13519,Mohammad Hafeez,AR,13520,5,42,75,56.0,1,2,c Nehra b Tendulkar,,37.2,430,1502,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,Pakistan Innings,194,45.2,4.27,636,2,9
+13518,Inzamam-ul-Haq,BAT,13519,4,37,58,63.79,4,0, b Tendulkar,,25.6,795,1502,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,Pakistan Innings,194,45.2,4.27,636,2,9
+13515,Kamran Akmal,WK,13516,1,17,17,100.0,3,0,c Sehwag b Balaji,,6.3,309,1502,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,Pakistan Innings,194,45.2,4.27,636,2,9
+13517,Mohammad Yousuf,BAT,13518,3,0,8,0.0,0,0,c &amp; b Khan,,12.1,312,1502,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,Pakistan Innings,194,45.2,4.27,636,2,9
+13516,Shoaib Malik,AR,13517,2,4,5,80.0,1,0,c Yuvraj Singh b Balaji,,8.2,311,1502,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,Pakistan Innings,194,45.2,4.27,636,2,9
+13504,Virender Sehwag,BAT,13498,0,108,95,113.68,9,3, b Abdul Razzaq,,35.1,62,1501,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,India Innings,281,50.0,5.62,636,9,2
+13505,Sachin Tendulkar,BAT,13500,1,4,4,100.0,1,0,c Mohammad Yousuf b Naved-ul-Hasan,,1.4,63,1501,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,India Innings,281,50.0,5.62,636,9,2
+13506,Sourav Ganguly,BAT,13502,2,0,1,0.0,0,0, b Naved-ul-Hasan,,1.5,788,1501,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,India Innings,281,50.0,5.62,636,9,2
+13507,Rahul Dravid,BAT,13504,3,104,139,74.82,6,0,run out (Mohammad Sami),,47.4,48,1501,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,India Innings,281,50.0,5.62,636,9,2
+13508,Yuvraj Singh,BAT,13506,4,16,22,72.72,2,0,c Salman Butt b Arshad Khan,,40.6,96,1501,1.0,India v Pakistan,2005-04-01 18:30:00+00:00,odi,183,776,India Innings,281,50.0,5.62,636,9,2
+13535,Salman Butt,BAT,13536,0,36,32,112.5,7,0,c Sehwag b Nehra,,12.6,375,1504,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,Pakistan Innings,298,44.1,6.74,637,2,9
+13542,Kamran Akmal,WK,13543,7,41,28,146.42,4,1,lbw b Khan,,44.1,309,1504,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,Pakistan Innings,298,44.1,6.74,637,2,9
+13543,Naved-ul-Hasan,,13544,8,2,9,22.22,0,0,c &dagger;Dhoni b Nehra,,40.4,315,1504,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,Pakistan Innings,298,44.1,6.74,637,2,9
+13544,Mohammad Sami,BOWL,13545,9,2,9,22.22,0,0,c Yuvraj Singh b Harbhajan Singh,,43.2,648,1504,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,Pakistan Innings,298,44.1,6.74,637,2,9
+13545,Arshad Khan,,13546,10,2,4,50.0,0,0,not out,,0.0,857,1504,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,Pakistan Innings,298,44.1,6.74,637,2,9
+13540,Shoaib Malik,AR,13541,5,12,12,100.0,1,0,c Sehwag b Yuvraj Singh,,31.2,311,1504,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,Pakistan Innings,298,44.1,6.74,637,2,9
+13539,Mohammad Yousuf,BAT,13540,4,71,56,126.78,2,4,c Kaif b Nehra,,38.1,312,1504,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,Pakistan Innings,298,44.1,6.74,637,2,9
+13538,Inzamam-ul-Haq,BAT,13539,3,16,13,123.07,0,1,run out (Harbhajan Singh/Tendulkar),,19.1,795,1504,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,Pakistan Innings,298,44.1,6.74,637,2,9
+13537,Abdul Razzaq,AR,13538,2,88,93,94.62,13,1,c &dagger;Dhoni b Yuvraj Singh,,27.2,378,1504,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,Pakistan Innings,298,44.1,6.74,637,2,9
+13536,Shahid Afridi,AR,13537,1,0,2,0.0,0,0, b Nehra,,1.2,313,1504,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,Pakistan Innings,298,44.1,6.74,637,2,9
+13532,Harbhajan Singh,BOWL,13533,7,11,16,68.75,1,0, b Arshad Khan,,47.2,52,1503,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,India Innings,356,50.0,7.12,637,9,2
+13533,Lakshmipathy Balaji,BOWL,13534,8,17,13,130.76,0,1,not out,,0.0,622,1503,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,India Innings,356,50.0,7.12,637,9,2
+13541,Mohammad Hafeez,AR,13542,6,7,7,100.0,1,0,c Balaji b Yuvraj Singh,,33.3,430,1504,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,Pakistan Innings,298,44.1,6.74,637,2,9
+13531,Mohammad Kaif,BAT,13532,6,0,1,0.0,0,0,lbw b Naved-ul-Hasan,,42.4,794,1503,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,India Innings,356,50.0,7.12,637,9,2
+13530,Yuvraj Singh,BAT,13531,5,15,10,150.0,2,0,lbw b Arshad Khan,,45.5,96,1503,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,India Innings,356,50.0,7.12,637,9,2
+13529,Rahul Dravid,BAT,13530,4,52,59,88.13,3,0,c Shahid Afridi b Naved-ul-Hasan,,42.1,48,1503,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,India Innings,356,50.0,7.12,637,9,2
+13528,Sourav Ganguly,BAT,13529,3,9,22,40.9,1,0, b Mohammad Sami,,19.2,788,1503,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,India Innings,356,50.0,7.12,637,9,2
+13527,MS Dhoni,WK,13528,2,148,123,120.32,15,4,c Shoaib Malik b Mohammad Hafeez,,41.2,51,1503,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,India Innings,356,50.0,7.12,637,9,2
+13526,Sachin Tendulkar,BAT,13527,1,2,8,25.0,0,0,run out (Mohammad Yousuf),,3.2,63,1503,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,India Innings,356,50.0,7.12,637,9,2
+13525,Virender Sehwag,BAT,13526,0,74,40,185.0,12,2,c Salman Butt b Naved-ul-Hasan,,13.4,62,1503,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,India Innings,356,50.0,7.12,637,9,2
+13534,Zaheer Khan,BOWL,13535,9,17,9,188.88,0,2,c Abdul Razzaq b Mohammad Hafeez,,49.6,78,1503,2.0,India v Pakistan,2005-04-04 18:30:00+00:00,odi,183,777,India Innings,356,50.0,7.12,637,9,2
+13550,Mohammad Yousuf,BAT,13551,4,43,31,138.7,6,0,c Dravid b Harbhajan Singh,,45.4,312,1505,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,Pakistan Innings,319,50.0,6.38,638,2,9
+13567,Ashish Nehra,BOWL,13568,10,3,7,42.85,0,0, b Naved-ul-Hasan,,41.4,307,1506,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,India Innings,213,41.4,5.11,638,9,2
+13566,Zaheer Khan,BOWL,13567,9,27,35,77.14,2,2,not out,,0.0,78,1506,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,India Innings,213,41.4,5.11,638,9,2
+13548,Shoaib Malik,AR,13549,2,75,79,94.93,7,2,c Tendulkar b Sehwag,,31.2,311,1505,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,Pakistan Innings,319,50.0,6.38,638,2,9
+13565,Harbhajan Singh,BOWL,13566,8,2,10,20.0,0,0, b Shoaib Malik,,30.2,52,1506,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,India Innings,213,41.4,5.11,638,9,2
+13549,Inzamam-ul-Haq,BAT,13550,3,23,17,135.29,1,1,c Pathan b Nehra,,36.4,795,1505,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,Pakistan Innings,319,50.0,6.38,638,2,9
+13564,Irfan Pathan,AR,13565,7,64,80,80.0,2,4,c &dagger;Kamran Akmal b Naved-ul-Hasan,,39.6,298,1506,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,India Innings,213,41.4,5.11,638,9,2
+13553,Younis Khan,BAT,13554,7,9,7,128.57,0,0,c Dravid b Khan,,49.4,310,1505,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,Pakistan Innings,319,50.0,6.38,638,2,9
+13562,Yuvraj Singh,BAT,13563,5,1,8,12.5,0,0,c &dagger;Kamran Akmal b Naved-ul-Hasan,,11.4,96,1506,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,India Innings,213,41.4,5.11,638,9,2
+13561,Rahul Dravid,BAT,13562,4,28,30,93.33,4,0,c Younis Khan b Mohammad Sami,,16.1,48,1506,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,India Innings,213,41.4,5.11,638,9,2
+13560,Sourav Ganguly,BAT,13561,3,4,8,50.0,1,0,c Younis Khan b Naved-ul-Hasan,,5.6,788,1506,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,India Innings,213,41.4,5.11,638,9,2
+13559,MS Dhoni,WK,13560,2,28,24,116.66,5,0,c &dagger;Kamran Akmal b Naved-ul-Hasan,,9.1,51,1506,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,India Innings,213,41.4,5.11,638,9,2
+13558,Sachin Tendulkar,BAT,13559,1,6,11,54.54,1,0,c Younis Khan b Mohammad Sami,,2.6,63,1506,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,India Innings,213,41.4,5.11,638,9,2
+13557,Virender Sehwag,BAT,13558,0,2,5,40.0,0,0,c Shahid Afridi b Naved-ul-Hasan,,1.4,62,1506,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,India Innings,213,41.4,5.11,638,9,2
+13556,Danish Kaneria,,13557,10,0,0,0.0,0,0,not out,,0.0,796,1505,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,Pakistan Innings,319,50.0,6.38,638,2,9
+13555,Naved-ul-Hasan,,13556,9,0,1,0.0,0,0,c sub (D Mongia) b Nehra,,50.5,315,1505,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,Pakistan Innings,319,50.0,6.38,638,2,9
+13554,Mohammad Sami,BOWL,13555,8,6,3,200.0,1,0,run out (Nehra),,50.3,648,1505,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,Pakistan Innings,319,50.0,6.38,638,2,9
+13563,Mohammad Kaif,BAT,13564,6,32,36,88.88,2,0,c Younis Khan b Danish Kaneria,,27.4,794,1506,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,India Innings,213,41.4,5.11,638,9,2
+13547,Shahid Afridi,AR,13548,1,17,17,100.0,3,0,c Dravid b Nehra,,5.4,313,1505,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,Pakistan Innings,319,50.0,6.38,638,2,9
+13551,Abdul Razzaq,AR,13552,5,18,13,138.46,2,0,st &dagger;Dhoni b Yuvraj Singh,,46.2,378,1505,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,Pakistan Innings,319,50.0,6.38,638,2,9
+13552,Kamran Akmal,WK,13553,6,14,18,77.77,0,0,not out,,0.0,309,1505,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,Pakistan Innings,319,50.0,6.38,638,2,9
+13546,Salman Butt,BAT,13547,0,101,116,87.06,10,0,run out (&dagger;Dhoni/Khan),,40.5,375,1505,3.0,India v Pakistan,2005-04-08 18:30:00+00:00,odi,183,778,Pakistan Innings,319,50.0,6.38,638,2,9
+13577,Virender Sehwag,BAT,13569,0,29,32,90.62,4,0,run out (Younis Khan),,10.1,62,1507,4.0,India v Pakistan,2005-04-11 18:30:00+00:00,odi,183,779,India Innings,315,48.0,6.56,639,9,2
+13593,Mohammad Sami,BOWL,13585,8,8,10,80.0,1,0,not out,,0.0,648,1508,4.0,India v Pakistan,2005-04-11 18:30:00+00:00,odi,183,779,Pakistan Innings,319,48.0,6.64,639,2,9
+13592,Kamran Akmal,WK,13584,7,10,6,166.66,1,0,run out (Nehra),,43.5,309,1508,4.0,India v Pakistan,2005-04-11 18:30:00+00:00,odi,183,779,Pakistan Innings,319,48.0,6.64,639,2,9
+13591,Younis Khan,BAT,13583,6,7,8,87.5,0,0,run out (Nehra/Khan),,41.5,310,1508,4.0,India v Pakistan,2005-04-11 18:30:00+00:00,odi,183,779,Pakistan Innings,319,48.0,6.64,639,2,9
+13590,Mohammad Yousuf,BAT,13582,5,11,9,122.22,1,0,c Balaji b Khan,,39.4,312,1508,4.0,India v Pakistan,2005-04-11 18:30:00+00:00,odi,183,779,Pakistan Innings,319,48.0,6.64,639,2,9
+13589,Inzamam-ul-Haq,BAT,13581,4,60,59,101.69,5,0,not out,,0.0,795,1508,4.0,India v Pakistan,2005-04-11 18:30:00+00:00,odi,183,779,Pakistan Innings,319,48.0,6.64,639,2,9
+13588,Shoaib Malik,AR,13580,3,65,65,100.0,3,0,c Balaji b Kartik,,38.2,311,1508,4.0,India v Pakistan,2005-04-11 18:30:00+00:00,odi,183,779,Pakistan Innings,319,48.0,6.64,639,2,9
+13587,Abdul Razzaq,AR,13579,2,44,60,73.33,1,0,c Kartik b Tendulkar,,28.1,378,1508,4.0,India v Pakistan,2005-04-11 18:30:00+00:00,odi,183,779,Pakistan Innings,319,48.0,6.64,639,2,9
+13586,Shahid Afridi,AR,13578,1,40,23,173.91,5,2,c Tendulkar b Balaji,,8.4,313,1508,4.0,India v Pakistan,2005-04-11 18:30:00+00:00,odi,183,779,Pakistan Innings,319,48.0,6.64,639,2,9
+13584,Zaheer Khan,BOWL,13576,7,0,0,0.0,0,0,not out,,0.0,78,1507,4.0,India v Pakistan,2005-04-11 18:30:00+00:00,odi,183,779,India Innings,315,48.0,6.56,639,9,2
+13582,Yuvraj Singh,BAT,13574,5,35,26,134.61,5,0,not out,,0.0,96,1507,4.0,India v Pakistan,2005-04-11 18:30:00+00:00,odi,183,779,India Innings,315,48.0,6.56,639,9,2
+13581,Rahul Dravid,BAT,13573,4,19,13,146.15,3,0,c Naved-ul-Hasan b Shoaib Malik,,45.5,48,1507,4.0,India v Pakistan,2005-04-11 18:30:00+00:00,odi,183,779,India Innings,315,48.0,6.56,639,9,2
+13580,Sourav Ganguly,BAT,13572,3,18,33,54.54,1,0,run out (Shoaib Malik/&dagger;Kamran Akmal),,40.2,788,1507,4.0,India v Pakistan,2005-04-11 18:30:00+00:00,odi,183,779,India Innings,315,48.0,6.56,639,9,2
+13579,MS Dhoni,WK,13571,2,47,64,73.43,4,1,c &dagger;Kamran Akmal b Shoaib Malik,,31.6,51,1507,4.0,India v Pakistan,2005-04-11 18:30:00+00:00,odi,183,779,India Innings,315,48.0,6.56,639,9,2
+13578,Sachin Tendulkar,BAT,13570,1,123,130,94.61,12,2, b Shoaib Malik,,41.3,63,1507,4.0,India v Pakistan,2005-04-11 18:30:00+00:00,odi,183,779,India Innings,315,48.0,6.56,639,9,2
+13585,Salman Butt,BAT,13577,0,48,55,87.27,6,0,lbw b Kartik,,15.3,375,1508,4.0,India v Pakistan,2005-04-11 18:30:00+00:00,odi,183,779,Pakistan Innings,319,48.0,6.64,639,2,9
+13583,Mohammad Kaif,BAT,13575,6,5,3,166.66,1,0, b Mohammad Sami,,46.6,794,1507,4.0,India v Pakistan,2005-04-11 18:30:00+00:00,odi,183,779,India Innings,315,48.0,6.56,639,9,2
+13598,Yuvraj Singh,BAT,13590,4,18,33,54.54,4,0, b Abdul Razzaq,,16.2,96,1509,5.0,India v Pakistan,2005-04-14 18:30:00+00:00,odi,183,780,India Innings,249,50.0,4.98,640,9,2
+13601,Zaheer Khan,BOWL,13593,7,1,1,100.0,0,0,not out,,0.0,78,1509,5.0,India v Pakistan,2005-04-14 18:30:00+00:00,odi,183,780,India Innings,249,50.0,4.98,640,9,2
+13604,Shoaib Malik,AR,13596,2,41,60,68.33,5,1,c Khan b Tendulkar,,35.4,311,1510,5.0,India v Pakistan,2005-04-14 18:30:00+00:00,odi,183,780,Pakistan Innings,252,42.1,5.97,640,2,9
+13603,Shahid Afridi,AR,13595,1,102,46,221.73,10,9, b Harbhajan Singh,,14.2,313,1510,5.0,India v Pakistan,2005-04-14 18:30:00+00:00,odi,183,780,Pakistan Innings,252,42.1,5.97,640,2,9
+13602,Salman Butt,BAT,13594,0,21,46,45.65,3,0,lbw b Kumble,,15.4,375,1510,5.0,India v Pakistan,2005-04-14 18:30:00+00:00,odi,183,780,Pakistan Innings,252,42.1,5.97,640,2,9
+13607,Younis Khan,BAT,13599,5,24,20,120.0,5,0, b Sehwag,,41.3,310,1510,5.0,India v Pakistan,2005-04-14 18:30:00+00:00,odi,183,780,Pakistan Innings,252,42.1,5.97,640,2,9
+13600,Dinesh Mongia,AR,13592,6,33,28,117.85,0,2,not out,,0.0,854,1509,5.0,India v Pakistan,2005-04-14 18:30:00+00:00,odi,183,780,India Innings,249,50.0,4.98,640,9,2
+13599,Mohammad Kaif,BAT,13591,5,78,88,88.63,9,0,c sub (Mohammad Hafeez) b Abdul Razzaq,,42.3,794,1509,5.0,India v Pakistan,2005-04-14 18:30:00+00:00,odi,183,780,India Innings,249,50.0,4.98,640,9,2
+13608,Abdul Razzaq,AR,13600,6,0,3,0.0,0,0,not out,,0.0,378,1510,5.0,India v Pakistan,2005-04-14 18:30:00+00:00,odi,183,780,Pakistan Innings,252,42.1,5.97,640,2,9
+13597,Rahul Dravid,BAT,13589,3,86,115,74.78,8,0,run out (Iftikhar Anjum/&dagger;Kamran Akmal),,49.5,48,1509,5.0,India v Pakistan,2005-04-14 18:30:00+00:00,odi,183,780,India Innings,249,50.0,4.98,640,9,2
+13596,MS Dhoni,WK,13588,2,11,16,68.75,1,0,c Younis Khan b Naved-ul-Hasan,,6.6,51,1509,5.0,India v Pakistan,2005-04-14 18:30:00+00:00,odi,183,780,India Innings,249,50.0,4.98,640,9,2
+13595,Sachin Tendulkar,BAT,13587,1,1,10,10.0,0,0,c &dagger;Kamran Akmal b Naved-ul-Hasan,,2.5,63,1509,5.0,India v Pakistan,2005-04-14 18:30:00+00:00,odi,183,780,India Innings,249,50.0,4.98,640,9,2
+13594,Virender Sehwag,BAT,13586,0,5,13,38.46,1,0, b Naved-ul-Hasan,,4.3,62,1509,5.0,India v Pakistan,2005-04-14 18:30:00+00:00,odi,183,780,India Innings,249,50.0,4.98,640,9,2
+13605,Mohammad Yousuf,BAT,13597,3,24,50,48.0,3,0,c Kaif b Kumble,,31.1,312,1510,5.0,India v Pakistan,2005-04-14 18:30:00+00:00,odi,183,780,Pakistan Innings,252,42.1,5.97,640,2,9
+13606,Inzamam-ul-Haq,BAT,13598,4,24,33,72.72,3,0,not out,,0.0,795,1510,5.0,India v Pakistan,2005-04-14 18:30:00+00:00,odi,183,780,Pakistan Innings,252,42.1,5.97,640,2,9
+13609,Salman Butt,BAT,13601,0,3,10,30.0,0,0,c Sehwag b Khan,,2.6,375,1511,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,Pakistan Innings,303,50.0,6.06,641,2,9
+13627,Zaheer Khan,BOWL,13619,9,7,7,100.0,0,1,c Younis Khan b Arshad Khan,,33.6,78,1512,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,India Innings,144,37.0,3.89,641,9,2
+13628,Ashish Nehra,BOWL,13620,10,1,9,11.11,0,0,c sub (Mohammad Hafeez) b Shahid Afridi,,36.6,307,1512,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,India Innings,144,37.0,3.89,641,9,2
+13610,Shahid Afridi,AR,13602,1,44,23,191.3,6,1,c &dagger;Dhoni b Nehra,,9.2,313,1511,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,Pakistan Innings,303,50.0,6.06,641,2,9
+13611,Shoaib Malik,AR,13603,2,72,87,82.75,8,0, b Agarkar,,34.2,311,1511,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,Pakistan Innings,303,50.0,6.06,641,2,9
+13612,Mohammad Yousuf,BAT,13604,3,50,59,84.74,3,1,run out (Tendulkar),,25.6,312,1511,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,Pakistan Innings,303,50.0,6.06,641,2,9
+13613,Inzamam-ul-Haq,BAT,13605,4,68,69,98.55,7,0,c &dagger;Dhoni b Agarkar,,49.2,795,1511,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,Pakistan Innings,303,50.0,6.06,641,2,9
+13614,Younis Khan,BAT,13606,5,40,42,95.23,3,1,c &amp; b Nehra,,47.2,310,1511,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,Pakistan Innings,303,50.0,6.06,641,2,9
+13626,Harbhajan Singh,BOWL,13618,8,20,43,46.51,1,0,not out,,0.0,52,1512,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,India Innings,144,37.0,3.89,641,9,2
+13617,Naved-ul-Hasan,,13609,8,9,3,300.0,2,0,not out,,0.0,315,1511,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,Pakistan Innings,303,50.0,6.06,641,2,9
+13618,Virender Sehwag,BAT,13610,0,21,26,80.76,3,0,c Shahid Afridi b Naved-ul-Hasan,,6.2,62,1512,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,India Innings,144,37.0,3.89,641,9,2
+13619,Sachin Tendulkar,BAT,13611,1,9,15,60.0,0,0, b Iftikhar Anjum,,7.1,63,1512,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,India Innings,144,37.0,3.89,641,9,2
+13620,MS Dhoni,WK,13612,2,24,38,63.15,2,0,c Shahid Afridi b Arshad Khan,,21.2,51,1512,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,India Innings,144,37.0,3.89,641,9,2
+13621,Rahul Dravid,BAT,13613,3,19,29,65.51,3,0,run out (Mohammad Yousuf),,12.6,48,1512,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,India Innings,144,37.0,3.89,641,9,2
+13622,Yuvraj Singh,BAT,13614,4,13,17,76.47,2,0,run out (Mohammad Yousuf),,18.5,96,1512,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,India Innings,144,37.0,3.89,641,9,2
+13623,Mohammad Kaif,BAT,13615,5,4,11,36.36,0,0,lbw b Abdul Razzaq,,22.3,794,1512,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,India Innings,144,37.0,3.89,641,9,2
+13624,Dinesh Mongia,AR,13616,6,0,4,0.0,0,0,c Younis Khan b Arshad Khan,,23.3,854,1512,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,India Innings,144,37.0,3.89,641,9,2
+13625,Ajit Agarkar,BOWL,13617,7,16,26,61.53,2,0,c Mohammad Yousuf b Shahid Afridi,,32.1,789,1512,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,India Innings,144,37.0,3.89,641,9,2
+13616,Kamran Akmal,WK,13608,7,5,6,83.33,0,0, b Agarkar,,49.6,309,1511,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,Pakistan Innings,303,50.0,6.06,641,2,9
+13615,Abdul Razzaq,AR,13607,6,0,1,0.0,0,0,c Sehwag b Nehra,,47.3,378,1511,6.0,India v Pakistan,2005-04-16 18:30:00+00:00,odi,183,781,Pakistan Innings,303,50.0,6.06,641,2,9
+13570,Marvan Atapattu,BAT,13633,1,29,38,76.31,5,0,run out (Raina),,13.1,792,1514,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,Sri Lanka Innings,209,48.2,4.32,642,2,8
+13569,Kumar Sangakkara,WK,13632,0,14,16,87.5,2,0,lbw b Pathan,,4.3,176,1514,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,Sri Lanka Innings,209,48.2,4.32,642,2,8
+13568,Sanath Jayasuriya,AR,13637,5,43,50,86.0,6,0,not out,,0.0,288,1514,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,Sri Lanka Innings,209,48.2,4.32,642,2,8
+13639,Ashish Nehra,BOWL,13631,10,2,2,100.0,0,0,not out,,0.0,307,1513,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,India Innings,205,50.0,4.1,642,8,2
+13638,Zaheer Khan,BOWL,13630,9,20,12,166.66,3,0,run out (Fernando),,49.3,78,1513,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,India Innings,205,50.0,4.1,642,8,2
+13637,Harbhajan Singh,BOWL,13629,8,20,23,86.95,1,1,not out,,0.0,52,1513,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,India Innings,205,50.0,4.1,642,8,2
+13636,Irfan Pathan,AR,13628,7,21,32,65.62,2,0,c Jayawardene b Muralitharan,,43.5,298,1513,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,India Innings,205,50.0,4.1,642,8,2
+13635,Venugopal Rao,BAT,13627,6,38,74,51.35,3,0,c &dagger;Sangakkara b Muralitharan,,44.0,861,1513,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,India Innings,205,50.0,4.1,642,8,2
+13634,Suresh Raina,BAT,13626,5,0,1,0.0,0,0,lbw b Muralitharan,,19.3,50,1513,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,India Innings,205,50.0,4.1,642,8,2
+13633,Mohammad Kaif,BAT,13625,4,8,12,66.66,1,0,c Muralitharan b Fernando,,19.0,794,1513,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,India Innings,205,50.0,4.1,642,8,2
+13576,Farveez Maharoof,AR,13640,8,23,32,71.87,4,0,not out,,0.0,380,1514,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,Sri Lanka Innings,209,48.2,4.32,642,2,8
+13631,Yuvraj Singh,BAT,13623,2,12,33,36.36,2,0,c sub (WU Tharanga) b Dilhara,,13.3,96,1513,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,India Innings,205,50.0,4.1,642,8,2
+13630,MS Dhoni,WK,13622,1,2,7,28.57,0,0, b Dilhara,,3.3,51,1513,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,India Innings,205,50.0,4.1,642,8,2
+13629,Virender Sehwag,BAT,13621,0,14,10,140.0,3,0, b Maharoof,,2.1,62,1513,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,India Innings,205,50.0,4.1,642,8,2
+13575,Upul Chandana,BOWL,13639,7,11,17,64.7,1,0,c &dagger;Dhoni b Khan,,40.3,860,1514,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,Sri Lanka Innings,209,48.2,4.32,642,2,8
+13574,Dilhara Lokuhettige,,13638,6,21,20,105.0,3,1, b Pathan,,34.2,466,1514,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,Sri Lanka Innings,209,48.2,4.32,642,2,8
+13573,Russel Arnold,,13636,4,22,41,53.65,2,0, b Harbhajan Singh,,29.4,859,1514,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,Sri Lanka Innings,209,48.2,4.32,642,2,8
+13572,Tillakaratne Dilshan,AR,13635,3,17,44,38.63,3,0,lbw b Harbhajan Singh,,27.4,292,1514,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,Sri Lanka Innings,209,48.2,4.32,642,2,8
+13632,Rahul Dravid,BAT,13624,3,54,96,56.25,6,0, b Chandana,,32.5,48,1513,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,India Innings,205,50.0,4.1,642,8,2
+13571,Mahela Jayawardene,BAT,13634,2,15,32,46.87,1,0, b Khan,,15.2,289,1514,1.0,Sri Lanka v India,2005-07-29 18:30:00+00:00,odi,184,782,Sri Lanka Innings,209,48.2,4.32,642,2,8
+13656,MS Dhoni,WK,13657,5,15,11,136.36,1,1,not out,,0.0,51,1516,2.0,India v West Indies,2005-07-30 18:30:00+00:00,odi,184,783,India Innings,180,36.0,5.0,643,3,2
+13654,Rahul Dravid,BAT,13655,3,52,65,80.0,7,0,not out,,0.0,48,1516,2.0,India v West Indies,2005-07-30 18:30:00+00:00,odi,184,783,India Innings,180,36.0,5.0,643,3,2
+13653,Suresh Raina,BAT,13654,2,35,42,83.33,6,0,c Marshall b Smith,,14.6,50,1516,2.0,India v West Indies,2005-07-30 18:30:00+00:00,odi,184,783,India Innings,180,36.0,5.0,643,3,2
+13652,Virender Sehwag,BAT,13653,1,2,2,100.0,0,0,c &dagger;Ramdin b Lawson,,1.2,62,1516,2.0,India v West Indies,2005-07-30 18:30:00+00:00,odi,184,783,India Innings,180,36.0,5.0,643,3,2
+13651,Mohammad Kaif,BAT,13652,0,24,39,61.53,5,0,c Joseph b Best,,11.4,794,1516,2.0,India v West Indies,2005-07-30 18:30:00+00:00,odi,184,783,India Innings,180,36.0,5.0,643,3,2
+13649,Daren Powell,,13650,9,0,1,0.0,0,0, b Nehra,,46.2,866,1515,2.0,India v West Indies,2005-07-30 18:30:00+00:00,odi,184,783,West Indies Innings,178,47.4,3.73,643,2,3
+13655,Yuvraj Singh,BAT,13656,4,28,58,48.27,3,0, b Lawson,,31.4,96,1516,2.0,India v West Indies,2005-07-30 18:30:00+00:00,odi,184,783,India Innings,180,36.0,5.0,643,3,2
+13647,Denesh Ramdin,WK,13648,7,24,37,64.86,1,0, b Nehra,,46.1,121,1515,2.0,India v West Indies,2005-07-30 18:30:00+00:00,odi,184,783,West Indies Innings,178,47.4,3.73,643,2,3
+13648,Tino Best,BOWL,13649,8,24,21,114.28,3,0,c Raina b Khan,,47.4,124,1515,2.0,India v West Indies,2005-07-30 18:30:00+00:00,odi,184,783,West Indies Innings,178,47.4,3.73,643,2,3
+13640,Xavier Marshall,BAT,13641,0,26,48,54.16,5,0,c Dravid b Harbhajan Singh,,13.3,862,1515,2.0,India v West Indies,2005-07-30 18:30:00+00:00,odi,184,783,West Indies Innings,178,47.4,3.73,643,2,3
+13641,Runako Morton,BAT,13642,1,1,8,12.5,0,0,lbw b Pathan,,2.4,863,1515,2.0,India v West Indies,2005-07-30 18:30:00+00:00,odi,184,783,West Indies Innings,178,47.4,3.73,643,2,3
+13642,Sylvester Joseph,,13643,2,3,14,21.42,0,0,run out (Raina/&dagger;Dhoni),,9.1,864,1515,2.0,India v West Indies,2005-07-30 18:30:00+00:00,odi,184,783,West Indies Innings,178,47.4,3.73,643,2,3
+13650,Jermaine Lawson,BOWL,13651,10,3,4,75.0,0,0,not out,,0.0,867,1515,2.0,India v West Indies,2005-07-30 18:30:00+00:00,odi,184,783,West Indies Innings,178,47.4,3.73,643,2,3
+13644,Shivnarine Chanderpaul,BAT,13645,4,22,53,41.5,0,0,lbw b Raina,,30.4,39,1515,2.0,India v West Indies,2005-07-30 18:30:00+00:00,odi,184,783,West Indies Innings,178,47.4,3.73,643,2,3
+13645,Ricardo Powell,BAT,13646,5,1,3,33.33,0,0, b Sehwag,,31.1,865,1515,2.0,India v West Indies,2005-07-30 18:30:00+00:00,odi,184,783,West Indies Innings,178,47.4,3.73,643,2,3
+13646,Dwayne Smith,AR,13647,6,20,7,285.71,1,2,c &dagger;Dhoni b Harbhajan Singh,,33.2,513,1515,2.0,India v West Indies,2005-07-30 18:30:00+00:00,odi,184,783,West Indies Innings,178,47.4,3.73,643,2,3
+13643,Narsingh Deonarine,BAT,13644,3,41,91,45.05,2,1,lbw b Sehwag,,41.2,126,1515,2.0,India v West Indies,2005-07-30 18:30:00+00:00,odi,184,783,West Indies Innings,178,47.4,3.73,643,2,3
+13674,Upul Chandana,BOWL,13675,7,44,62,70.96,4,0,not out,,0.0,860,1518,4.0,Sri Lanka v India,2005-08-02 18:30:00+00:00,odi,184,784,Sri Lanka Innings,221,48.0,4.6,644,2,8
+13673,Dilhara Lokuhettige,,13674,6,0,6,0.0,0,0,c &dagger;Dhoni b Harbhajan Singh,,25.6,466,1518,4.0,Sri Lanka v India,2005-08-02 18:30:00+00:00,odi,184,784,Sri Lanka Innings,221,48.0,4.6,644,2,8
+13672,Russel Arnold,,13673,5,4,9,44.44,1,0,lbw b Nehra,,24.3,859,1518,4.0,Sri Lanka v India,2005-08-02 18:30:00+00:00,odi,184,784,Sri Lanka Innings,221,48.0,4.6,644,2,8
+13671,Tillakaratne Dilshan,AR,13672,4,7,11,63.63,0,0,c &dagger;Dhoni b Nehra,,22.2,292,1518,4.0,Sri Lanka v India,2005-08-02 18:30:00+00:00,odi,184,784,Sri Lanka Innings,221,48.0,4.6,644,2,8
+13670,Mahela Jayawardene,BAT,13671,3,94,114,82.45,9,1,not out,,0.0,289,1518,4.0,Sri Lanka v India,2005-08-02 18:30:00+00:00,odi,184,784,Sri Lanka Innings,221,48.0,4.6,644,2,8
+13669,Kumar Sangakkara,WK,13670,2,16,30,53.33,3,0,lbw b Balaji,,11.1,176,1518,4.0,Sri Lanka v India,2005-08-02 18:30:00+00:00,odi,184,784,Sri Lanka Innings,221,48.0,4.6,644,2,8
+13668,Marvan Atapattu,BAT,13669,1,29,52,55.76,3,0,run out (Raina/&dagger;Dhoni),,19.4,792,1518,4.0,Sri Lanka v India,2005-08-02 18:30:00+00:00,odi,184,784,Sri Lanka Innings,221,48.0,4.6,644,2,8
+13667,Upul Tharanga,BAT,13668,0,4,6,66.66,1,0,c &dagger;Dhoni b Pathan,,0.6,185,1518,4.0,Sri Lanka v India,2005-08-02 18:30:00+00:00,odi,184,784,Sri Lanka Innings,221,48.0,4.6,644,2,8
+13666,Lakshmipathy Balaji,BOWL,13667,9,1,1,100.0,0,0,not out,,0.0,622,1517,4.0,Sri Lanka v India,2005-08-02 18:30:00+00:00,odi,184,784,India Innings,220,50.0,4.4,644,8,2
+13664,Irfan Pathan,AR,13665,7,36,28,128.57,5,0,not out,,0.0,298,1517,4.0,Sri Lanka v India,2005-08-02 18:30:00+00:00,odi,184,784,India Innings,220,50.0,4.4,644,8,2
+13662,Mohammad Kaif,BAT,13663,5,34,48,70.83,1,0,c &amp; b Maharoof,,47.6,794,1517,4.0,Sri Lanka v India,2005-08-02 18:30:00+00:00,odi,184,784,India Innings,220,50.0,4.4,644,8,2
+13661,Rahul Dravid,BAT,13662,4,0,1,0.0,0,0,lbw b Dilshan,,33.2,48,1517,4.0,Sri Lanka v India,2005-08-02 18:30:00+00:00,odi,184,784,India Innings,220,50.0,4.4,644,8,2
+13660,MS Dhoni,WK,13661,3,20,27,74.07,1,0,c &amp; b Dilshan,,39.6,51,1517,4.0,Sri Lanka v India,2005-08-02 18:30:00+00:00,odi,184,784,India Innings,220,50.0,4.4,644,8,2
+13659,VVS Laxman,BAT,13660,2,22,43,51.16,1,0, b Dilshan,,29.5,49,1517,4.0,Sri Lanka v India,2005-08-02 18:30:00+00:00,odi,184,784,India Innings,220,50.0,4.4,644,8,2
+13658,Sourav Ganguly,BAT,13659,1,51,110,46.36,5,0, b Chandana,,32.6,788,1517,4.0,Sri Lanka v India,2005-08-02 18:30:00+00:00,odi,184,784,India Innings,220,50.0,4.4,644,8,2
+13657,Virender Sehwag,BAT,13658,0,32,39,82.05,5,0, b Jayaprakashdaran,,15.1,62,1517,4.0,Sri Lanka v India,2005-08-02 18:30:00+00:00,odi,184,784,India Innings,220,50.0,4.4,644,8,2
+13665,Harbhajan Singh,BOWL,13666,8,4,2,200.0,1,0,run out (Fernando),,48.5,52,1517,4.0,Sri Lanka v India,2005-08-02 18:30:00+00:00,odi,184,784,India Innings,220,50.0,4.4,644,8,2
+13663,Suresh Raina,BAT,13664,6,2,5,40.0,0,0,c &amp; b Dilshan,,41.4,50,1517,4.0,Sri Lanka v India,2005-08-02 18:30:00+00:00,odi,184,784,India Innings,220,50.0,4.4,644,8,2
+13691,Deighton Butler,BOWL,13692,9,9,12,75.0,1,0,run out (Kaif),,47.4,870,1520,6.0,India v West Indies,2005-08-07 09:00:00+00:00,odi,184,785,West Indies Innings,255,50.0,5.1,645,2,3
+13692,Daren Powell,,13693,10,5,7,71.42,0,0,not out,,0.0,866,1520,6.0,India v West Indies,2005-08-07 09:00:00+00:00,odi,184,785,West Indies Innings,255,50.0,5.1,645,2,3
+13675,Sourav Ganguly,BAT,13676,0,2,12,16.66,0,0,retired hurt,,0.0,788,1519,6.0,India v West Indies,2005-08-07 09:00:00+00:00,odi,184,785,India Innings,262,50.0,5.24,645,3,2
+13690,Tino Best,BOWL,13691,8,3,12,25.0,0,0, b Sehwag,,43.2,124,1520,6.0,India v West Indies,2005-08-07 09:00:00+00:00,odi,184,785,West Indies Innings,255,50.0,5.1,645,2,3
+13689,Denesh Ramdin,WK,13690,7,74,83,89.15,7,0,not out,,0.0,121,1520,6.0,India v West Indies,2005-08-07 09:00:00+00:00,odi,184,785,West Indies Innings,255,50.0,5.1,645,2,3
+13688,Ricardo Powell,BAT,13689,6,4,15,26.66,0,0,c sub (Y Venugopal Rao) b Kumble,,23.3,865,1520,6.0,India v West Indies,2005-08-07 09:00:00+00:00,odi,184,785,West Indies Innings,255,50.0,5.1,645,2,3
+13686,Omari Banks,AR,13687,4,6,9,66.66,1,0,lbw b Kumble,,15.6,869,1520,6.0,India v West Indies,2005-08-07 09:00:00+00:00,odi,184,785,West Indies Innings,255,50.0,5.1,645,2,3
+13685,Narsingh Deonarine,BAT,13686,3,6,12,50.0,1,0,c Kumble b Nehra,,12.6,126,1520,6.0,India v West Indies,2005-08-07 09:00:00+00:00,odi,184,785,West Indies Innings,255,50.0,5.1,645,2,3
+13684,Sylvester Joseph,,13685,2,4,12,33.33,1,0,c sub (Harbhajan Singh) b Pathan,,8.5,864,1520,6.0,India v West Indies,2005-08-07 09:00:00+00:00,odi,184,785,West Indies Innings,255,50.0,5.1,645,2,3
+13683,Runako Morton,BAT,13684,1,84,104,80.76,6,1,c Dravid b Nehra,,38.6,863,1520,6.0,India v West Indies,2005-08-07 09:00:00+00:00,odi,184,785,West Indies Innings,255,50.0,5.1,645,2,3
+13687,Dwayne Smith,AR,13688,5,26,12,216.66,2,2,lbw b Kumble,,19.4,513,1520,6.0,India v West Indies,2005-08-07 09:00:00+00:00,odi,184,785,West Indies Innings,255,50.0,5.1,645,2,3
+13681,MS Dhoni,WK,13682,6,28,13,215.38,1,2,not out,,0.0,51,1519,6.0,India v West Indies,2005-08-07 09:00:00+00:00,odi,184,785,India Innings,262,50.0,5.24,645,3,2
+13680,Mohammad Kaif,BAT,13681,5,83,103,80.58,6,0,not out,,0.0,794,1519,6.0,India v West Indies,2005-08-07 09:00:00+00:00,odi,184,785,India Innings,262,50.0,5.24,645,3,2
+13679,Yuvraj Singh,BAT,13680,4,110,114,96.49,11,1,c Best b Deonarine,,45.5,96,1519,6.0,India v West Indies,2005-08-07 09:00:00+00:00,odi,184,785,India Innings,262,50.0,5.24,645,3,2
+13678,Rahul Dravid,BAT,13679,3,10,26,38.46,2,0, b Banks,,16.1,48,1519,6.0,India v West Indies,2005-08-07 09:00:00+00:00,odi,184,785,India Innings,262,50.0,5.24,645,3,2
+13677,VVS Laxman,BAT,13678,2,7,12,58.33,1,0,c &dagger;Ramdin b DBL Powell,,7.1,49,1519,6.0,India v West Indies,2005-08-07 09:00:00+00:00,odi,184,785,India Innings,262,50.0,5.24,645,3,2
+13676,Virender Sehwag,BAT,13677,1,6,23,26.08,0,0,lbw b Butler,,8.3,62,1519,6.0,India v West Indies,2005-08-07 09:00:00+00:00,odi,184,785,India Innings,262,50.0,5.24,645,3,2
+13682,Xavier Marshall,BAT,13683,0,19,23,82.6,4,0,lbw b Pathan,,6.2,862,1520,6.0,India v West Indies,2005-08-07 09:00:00+00:00,odi,184,785,West Indies Innings,255,50.0,5.1,645,2,3
+13706,Yuvraj Singh,BAT,13707,3,42,58,72.41,2,0,c Dilhara b Chandana,,36.1,96,1522,0.0,Sri Lanka v India,2005-08-08 18:30:00+00:00,odi,184,786,India Innings,263,50.0,5.26,646,8,2
+13707,Mohammad Kaif,BAT,13708,4,31,36,86.11,3,0,c Atapattu b Vaas,,48.3,794,1522,0.0,Sri Lanka v India,2005-08-08 18:30:00+00:00,odi,184,786,India Innings,263,50.0,5.26,646,8,2
+13708,MS Dhoni,WK,13709,5,7,11,63.63,0,0,lbw b Chandana,,42.6,51,1522,0.0,Sri Lanka v India,2005-08-08 18:30:00+00:00,odi,184,786,India Innings,263,50.0,5.26,646,8,2
+13709,Irfan Pathan,AR,13710,6,1,4,25.0,0,0, b Muralitharan,,43.6,298,1522,0.0,Sri Lanka v India,2005-08-08 18:30:00+00:00,odi,184,786,India Innings,263,50.0,5.26,646,8,2
+13712,Anil Kumble,BOWL,13713,9,9,15,60.0,0,0,not out,,0.0,790,1522,0.0,Sri Lanka v India,2005-08-08 18:30:00+00:00,odi,184,786,India Innings,263,50.0,5.26,646,8,2
